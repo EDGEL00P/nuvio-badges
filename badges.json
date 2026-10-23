@@ -1,1 +1,18 @@
-PLACEHOLDER
+{
+  "filters": [
+    {
+      "id": "cinema-movie",
+      "groupId": "media-type",
+      "name": "\ud83c\udfac Cinema",
+      "pattern": "(?i)\\b(movie|film|cinema|feature|theatrical)\\b",
+      "imageURL": "",
+      "tagColor": "#CCFF0066",
+      "borderColor": "#FFFF00FF",
+      "textColor": "#FFFFFFFF",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    }
+  ],
+  "groups": []
+}
